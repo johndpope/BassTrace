@@ -1,7 +1,7 @@
 
-# 🎛️ BassTrace: Neural Network Debugger 🔍
+# 🎛️ BassTrace: Neural Network Debugger 
 
-## 🎵 Dropping the Beat on Neural Network Debugging 🎚️
+## 🎵 Dropping the Beat on Neural Network Debugging 
 
 BassTrace is a powerful, interactive debugging tool for neural networks, designed to help you visualize, analyze, and optimize your models with the precision of a drum machine and the flexibility of a synthesizer.
 
