@@ -42,7 +42,7 @@ iteration
 
 
 ```shell
-pip install wandb plotly
+pip install wandb plotly wandb
 ```
 
 
